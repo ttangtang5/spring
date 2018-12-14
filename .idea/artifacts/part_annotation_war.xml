@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="part-annotation:war">
+    <output-path>$PROJECT_DIR$/part-annotation/target</output-path>
+    <root id="archive" name="part-annotation-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="part-annotation:war exploded" />
+    </root>
+  </artifact>
+</component>

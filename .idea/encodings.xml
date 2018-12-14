@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part-annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part-beans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part-condition" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part-converter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part-el" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part-event" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part-mvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part-profile" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part-scheduling" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part-serverSendMsg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part-thread" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/part-upload" charset="UTF-8" />
+  </component>
+</project>

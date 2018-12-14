@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="el" />
+        <module name="part-1" />
+        <module name="part-2" />
+        <module name="part-annotation" />
+        <module name="part-aop" />
+        <module name="part-beans" />
+        <module name="part-condition" />
+        <module name="part-converter" />
+        <module name="part-el" />
+        <module name="part-event" />
+        <module name="part-mvc" />
+        <module name="part-profile" />
+        <module name="part-scheduling" />
+        <module name="part-serverSendMsg" />
+        <module name="part-thread" />
+        <module name="part-upload" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="el" target="1.5" />
+      <module name="part-1" target="1.6" />
+      <module name="part-2" target="1.5" />
+      <module name="part-annotation" target="1.6" />
+      <module name="part-aop" target="1.5" />
+      <module name="part-beans" target="1.5" />
+      <module name="part-condition" target="1.6" />
+      <module name="part-converter" target="1.7" />
+      <module name="part-el" target="1.5" />
+      <module name="part-event" target="1.6" />
+      <module name="part-mvc" target="1.8" />
+      <module name="part-profile" target="1.5" />
+      <module name="part-scheduling" target="1.5" />
+      <module name="part-serverSendMsg" target="1.7" />
+      <module name="part-thread" target="1.6" />
+      <module name="part-upload" target="1.7" />
+      <module name="spring" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

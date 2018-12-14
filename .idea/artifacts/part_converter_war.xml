@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="part-converter:war">
+    <output-path>$PROJECT_DIR$/part-converter/target</output-path>
+    <root id="archive" name="part-converter.war">
+      <element id="artifact" artifact-name="part-converter:war exploded" />
+    </root>
+  </artifact>
+</component>
