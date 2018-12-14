@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/part-annotation/part-annotation.iml" filepath="$PROJECT_DIR$/part-annotation/part-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part-aop/part-aop.iml" filepath="$PROJECT_DIR$/part-aop/part-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part-beans/part-beans.iml" filepath="$PROJECT_DIR$/part-beans/part-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part-condition/part-condition.iml" filepath="$PROJECT_DIR$/part-condition/part-condition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part-converter/part-converter.iml" filepath="$PROJECT_DIR$/part-converter/part-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part-el/part-el.iml" filepath="$PROJECT_DIR$/part-el/part-el.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part-event/part-event.iml" filepath="$PROJECT_DIR$/part-event/part-event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part-mvc/part-mvc.iml" filepath="$PROJECT_DIR$/part-mvc/part-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part-profile/part-profile.iml" filepath="$PROJECT_DIR$/part-profile/part-profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part-scheduling/part-scheduling.iml" filepath="$PROJECT_DIR$/part-scheduling/part-scheduling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part-serverSendMsg/part-serverSendMsg.iml" filepath="$PROJECT_DIR$/part-serverSendMsg/part-serverSendMsg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part-thread/part-thread.iml" filepath="$PROJECT_DIR$/part-thread/part-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part-upload/part-upload.iml" filepath="$PROJECT_DIR$/part-upload/part-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.iml" filepath="$PROJECT_DIR$/spring.iml" />
+    </modules>
+  </component>
+</project>
